@@ -1,0 +1,14 @@
+/* TODO: Adicionar estilos personalizados */
+.card {
+  -webkit-box-shadow: 0px 0px 23px -9px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 23px -9px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 23px -9px rgba(0,0,0,0.75);
+transition: transform 0.5s ease-in-out;
+min-height: 550px;
+    
+  }
+  
+  .card:hover {
+   transform: translateY(-10px) ;
+    
+  }
